@@ -1,0 +1,86 @@
+* {
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body {
+	background-image: url('../images/background.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.logo {
+	position: fixed;
+	margin: 40px;
+}
+
+.welcome {
+	color: white;
+	font-family: 'Merienda One', cursive;
+	font-size: 75px;
+	/*let's center the text in the middle of the page*/
+	position: fixed;
+	top: 40%;
+	left: 50%;
+	margin-top: -100px;
+	margin-left: -200px;
+}
+
+.slogan {
+	color: white;
+	font-size: 20px;
+	position: fixed;
+	top: 40%;
+	left: 50%;
+	margin-left: -190px;
+}
+
+.discord {
+	position: fixed;
+	top: 60%;
+	left: 50%;
+	margin-left: -190px;
+}
+
+.join {
+	color: white;
+	font-size: 20px;
+	position: fixed;
+	top: 60%;
+	left: 50%;
+	margin-top: 25px;
+	margin-left: -80px;
+}
+
+.github {
+	position: fixed;
+	top: 70%;
+	left: 50%;
+	margin-left: -190px;
+}
+
+.contribute {
+	color: white;
+	font-size: 20px;
+	position: fixed;
+	top: 60%;
+	left: 50%;
+	margin-top: 125px;
+	margin-left: -80px;
+}
+
+.email {
+	position: fixed;
+	top: 80%;
+	left: 50%;
+	margin-left: -190px;
+}
+
+.email-us {
+	color: white;
+	font-size: 20px;
+	position: fixed;
+	top: 60%;
+	left: 50%;
+	margin-top: 230px;
+	margin-left: -80px;
+}
